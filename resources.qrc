@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/deltaforce" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
