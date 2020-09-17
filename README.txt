@@ -1,5 +1,5 @@
 PLUGIN QGIS DELTAFORCE
 
-Extension Qgis permettant de réaliser les opérations spatiales d'érosion-dilatation.
+Extension Qgis permettant d'enregistrer chaque feature au format shapefile
 
 
